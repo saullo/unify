@@ -1,0 +1,14 @@
+{
+  "name": "unify/unify",
+  "description": "Enterprise Resource Planning (ERP) system designed to streamline and integrate business processes",
+  "type": "project",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Saullo Bretas Silva",
+      "email": "saullo@amplasoftware.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
