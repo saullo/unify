@@ -1,0 +1,14 @@
+{
+  "name": "unify/core",
+  "description": "Unify Core provides the building blocks and tools for various functionalities",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Saullo Bretas Silva",
+      "email": "saullo@amplasoftware.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
